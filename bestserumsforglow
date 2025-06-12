@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Compare the best anti-aging serums: Estée Lauder, Olay, and The Ordinary. Choose the perfect glow booster for your skin.">
+  <meta name="keywords" content="Best anti-aging serum, Retinol serum India, Hyaluronic Acid serum, Estée Lauder vs Olay vs The Ordinary, luxury skincare">
+  <meta name="author" content="Glowviaa">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Top 3 Serums for Glowing Skin – Estée Lauder vs Olay vs The Ordinary</title>
+  <style>
+    body {
+      background-color: #121212;
+      color: #f0f0f0;
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+    h1, h2 {
+      color: #ff9f00;
+    }
+    .comparison-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: center;
+    }
+    .product-card {
+      background-color: #1e1e1e;
+      border: 1px solid #333;
+      border-radius: 15px;
+      padding: 20px;
+      width: 300px;
+      box-shadow: 0 0 10px rgba(255, 159, 0, 0.2);
+      transition: transform 0.3s;
+    }
+    .product-card:hover {
+      transform: scale(1.03);
+    }
+    .product-card img {
+      width: 100%;
+      border-radius: 10px;
+    }
+    .product-card h3 {
+      color: #ffcc70;
+    }
+    .cta-button {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 20px;
+      background-color: #ff9f00;
+      color: #121212;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 10px;
+    }
+    .cta-button:hover {
+      background-color: #ffc040;
+    }
+    .tagline {
+      margin: 10px 0;
+      font-style: italic;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>💫 Glowing Skin Secrets: Compare the Top 3 Serums Celebrities Swear By</h1>
+  <p class="tagline">“Do you want the red-carpet glow influencers use secretly?”</p>
+
+  <div class="comparison-container">
+    <!-- Estée Lauder -->
+    <div class="product-card">
+      <img src="https://m.media-amazon.com/images/I/61mN1NgGpbL._SL1500_.jpg" alt="Estée Lauder Advanced Night Repair">
+      <h3>Estée Lauder Advanced Night Repair</h3>
+      <p>⭐ Rating: 4.7 (80,000+ reviews)</p>
+      <p>Luxury anti-aging serum with Chronolux™ peptides and deep hydration for radiant, youthful skin.</p>
+      <a href="https://amzn.to/3SPTr46" class="cta-button" target="_blank">Shop Now</a>
+    </div>
+
+    <!-- Olay Regenerist -->
+    <div class="product-card">
+      <img src="https://m.media-amazon.com/images/I/61PB6mU8NJL._SL1500_.jpg" alt="Olay Regenerist Retinol 24">
+      <h3>Olay Regenerist Retinol 24</h3>
+      <p>⭐ Rating: 4.7 (13,000+ reviews)</p>
+      <p>Powerful night serum for firm, bright, and smoother skin. Retinoid complex + Vitamin B3.</p>
+      <a href="https://amzn.to/4jPUMmt" class="cta-button" target="_blank">Buy on Amazon</a>
+    </div>
+
+    <!-- The Ordinary -->
+    <div class="product-card">
+      <img src="https://m.media-amazon.com/images/I/61y2VVWcGBL._SL1500_.jpg" alt="The Ordinary Hyaluronic Acid 2% + B5">
+      <h3>The Ordinary Hyaluronic Acid 2% + B5</h3>
+      <p>⭐ Rating: 4.6 (23,000+ reviews)</p>
+      <p>Hydration powerhouse with 5 types of HA + B5 for plump, dewy skin. Dermatologist-recommended.</p>
+      <a href="https://amzn.to/4l6nkcl" class="cta-button" target="_blank">View Product</a>
+    </div>
+  </div>
+
+  <h2>✨ Which Serum Is Best for You?</h2>
+  <p>If you're looking for deep repair and luxury glow, go with <strong>Estée Lauder</strong>. For a powerful retinol solution under ₹1,500, <strong>Olay</strong> is perfect. And for maximum hydration on a budget, <strong>The Ordinary</strong> delivers exceptional value.</p>
+
+  <p style="margin-top: 30px; font-size: 14px; color: #888;">#LuxurySkincare #HyaluronicAcid #RetinolSerum #EstéeLauder #OlayRetinol24 #TheOrdinary #AffiliateBeauty</p>
+
+</body>
+</html>
